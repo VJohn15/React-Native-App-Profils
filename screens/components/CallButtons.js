@@ -23,7 +23,7 @@ export default class CallButtons extends React.Component{
 
 const styles = StyleSheet.create ({
     container: { 
-        alignItems: "center", justifyContent: "center", margin: 8, 
-        width: 70, height: 70, borderRadius: 40},
+        alignItems: "center", justifyContent: "center", margin: 9.5, 
+        width: 65, height: 65, borderRadius: 40},
     text: {fontSize: 30, fontWeight: "bold"},
 });
