@@ -17,6 +17,6 @@ export default class CallDisplay extends React.Component {
 }
 
 const styles = StyleSheet.create ({
-    container: {padding: 30},
-    display: { fontSize: 30, color: "white", textAlign: "center"},
+    container: {padding: 20},
+    display: { fontSize: 20, color: "white", textAlign: "center"},
 });
